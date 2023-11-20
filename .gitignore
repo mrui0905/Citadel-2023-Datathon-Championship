@@ -1,0 +1,8 @@
+*.csv
+*.zip
+.DS_Store
+arrests
+dataset
+did
+education
+random_forest
